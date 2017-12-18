@@ -16,7 +16,7 @@
 6. Table.java
 
   - 可依需求增加field和method，但新增加的field和method一定為private層級
-  - Table.java所需field (除static field外全為private)與method，若無寫明變數名稱，表示可自行取名
+  - Table.java所需field (除static field外全為private)與method，若無寫明變數名稱，表示可自行取名 
   - 新增Class field, final, int, MAXPLAYER = 4
     - 最多一張牌桌能坐幾個人
   - 新增 一型別為Deck的變數(instance field)，存放所有的牌
